@@ -1,0 +1,6 @@
+这是我当前使用的conda环境，进入conda控制台中输入以下命令
+
+conda env create -f py35.yaml
+pip install -r py35.txt
+
+安装后在项目生成个确认txt,上传至GitHub
